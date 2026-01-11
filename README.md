@@ -3,7 +3,7 @@
 Age and Smoking - A Comprehensive Analysis Using Frequentist and Bayesian Methods
 
 ## You can view the interactive HTML version of this project here:
-
+https://kvphilpott.github.io/Age-and-Smoking-Analysis/
 
 ## Research Hypothesis
 This study aims to analyze the age demographics of those who smoke. The null hypothesis, H0, assumes that the average age of smokers is 60 years or younger, while the alternative hypothesis, H1, assumes that the average age of individuals who smoke is greater than 60 years.
